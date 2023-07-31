@@ -30,6 +30,7 @@ const Footer = () => {
             width={115}
             height={38}
             alt="Flexibble"
+            priority={true}
           />
           <p className="text-start text-sm font-normal mt-5 max-w-xs">
             Flexibble is the world's leading community for creatives to share,
